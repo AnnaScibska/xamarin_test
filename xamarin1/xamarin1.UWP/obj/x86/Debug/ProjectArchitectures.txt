@@ -1,1 +1,1 @@
-C:\Users\annas\Source\Repos\xamarin1\xamarin1\xamarin1.UWP\xamarin1.UWP.csproj;x86
+C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.UWP\xamarin1.UWP.csproj;x86

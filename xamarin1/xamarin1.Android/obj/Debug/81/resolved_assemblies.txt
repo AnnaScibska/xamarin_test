@@ -1,6 +1,12 @@
 C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\xamarin1.Android.dll
 C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
 C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Analytics.dll
+C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.Crashes.dll
+C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Microsoft.AppCenter.dll
 C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Mono.Android.dll
 C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\mscorlib.dll
 C:\Users\annas\Desktop\xamarin1\xamarin1\xamarin1.Android\obj\Debug\81\android\assets\Newtonsoft.Json.dll

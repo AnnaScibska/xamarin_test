@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "39725bd36e5b03cb166703f06ffadee359f9f7b0"
+    "signature": "5190d977451a69c48a555cac74b4d6f7bdc8ac29"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "xamarin1/1.0.0": {
         "dependencies": {
           "Microsoft.AppCenter": "2.0.0",
+          "Microsoft.AppCenter.Analytics": "2.0.0",
           "Microsoft.AppCenter.Crashes": "2.0.0",
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.2",
@@ -22,6 +23,17 @@
       "Microsoft.AppCenter/2.0.0": {
         "runtime": {
           "lib/netstandard1.0/Microsoft.AppCenter.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Analytics/2.0.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Analytics.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "2.0.0.0"
           }
@@ -82,6 +94,13 @@
       "sha512": "sha512-aotwBhk12zF2g4jz6Ruouqe0fEM2EJMzxFVvNK7XQkGZFpAjmHohlGkBBiA2hYyhVSylsxVHTkCiPfwf8Z/abg==",
       "path": "microsoft.appcenter/2.0.0",
       "hashPath": "microsoft.appcenter.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Analytics/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qxFUPnBujhCYmqxv3OUTM0xa4OBUXlX8v3NSPxZ1r4Y44swMyx1EIEtOWlGj99BGKw5rlR2whActePw2h1X4Ng==",
+      "path": "microsoft.appcenter.analytics/2.0.0",
+      "hashPath": "microsoft.appcenter.analytics.2.0.0.nupkg.sha512"
     },
     "Microsoft.AppCenter.Crashes/2.0.0": {
       "type": "package",

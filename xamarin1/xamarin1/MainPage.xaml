@@ -3,10 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:xamarin1"
              x:Class="xamarin1.MainPage">
-
     <StackLayout VerticalOptions="Start" >
-        <!--<Entry Text="{Binding id}" Placeholder="id"></Entry>-->
-        <Entry Text="{Binding title}" Placeholder="title"></Entry>
+        <Entry Text="{Binding itle}" Placeholder="title"></Entry>
         <Button Text="Add" Clicked="Button_Clicked"></Button>
         <Label Text="List of posts"/>
         <ListView ItemsSource="{Binding Data}">
@@ -14,7 +12,6 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout Orientation="Horizontal" >
-                            <!--<Label Text="{Binding id}"></Label>-->
                             <Label Text="{Binding title}"></Label>
                         </StackLayout>
                     </ViewCell>
@@ -22,6 +19,4 @@
             </ListView.ItemTemplate>
         </ListView>
     </StackLayout>
-
-
 </ContentPage>
