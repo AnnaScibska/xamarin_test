@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:xamarin1"
              x:Class="xamarin1.MainPage">
     <StackLayout VerticalOptions="Start" >
-        <Entry Text="{Binding itle}" Placeholder="title"></Entry>
+        <Entry Text="{Binding title}" Placeholder="title"></Entry>
         <Button Text="Add" Clicked="Button_Clicked"></Button>
         <Label Text="List of posts"/>
         <ListView ItemsSource="{Binding Data}">
